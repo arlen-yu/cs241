@@ -5,7 +5,6 @@
 
 ## Stages
 
-
 1. Analysis - make sense of the input, understanding the meaning
 2. Synthesis - output equivilant machine instructions in binary
 
