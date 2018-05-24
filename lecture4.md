@@ -1,4 +1,4 @@
-# Lecutre 4: More MIPS Assembly, Procedures
+# Lecture 4: More MIPS Assembly, Procedures
 
 `mult $s, $t` - where does the result go?
 
